@@ -15,4 +15,6 @@ For example:
 
 Remember to not jump into the problem ASAP! Instead take appropriate time to think on how to approach a problem. Whenever you get stuck try to ATTACK the problem from different ends. Don't forget to handle edge cases and if at first solving with a naive approach try doing it with an optimal solution.
 
-To get started on some common approaches to solve a problem. Give this a read: https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+To get started on some common approaches to solve a problem give this a read: 
+
+https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
